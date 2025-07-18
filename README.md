@@ -1,2 +1,2 @@
-# invoice_keerthana
-A full-stack invoice generator web app with PDF output
+# Invoice Generator Web App
+Created by Keerthana Vankamalla
